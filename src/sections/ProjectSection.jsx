@@ -1,5 +1,5 @@
 import ProjectCard from "../components/PrjectCard";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 const ProjectSection = () => {
   return (
@@ -17,7 +17,7 @@ const ProjectSection = () => {
               description={
                 "We implemented a Point of Sale (POS) system for SchoolPaperBank, designed to streamline their sales process and manage inventory in real-time. The system features an intuitive user interface, making it easy for staff to process transactions quickly and efficiently. With automated stock updates and detailed sales reporting, this POS solution enhances operational efficiency and supports better decision-making for SchoolPaperBank’s retail operations."
               }
-              link={"/src/assets/images/erp.webp"}
+              link={"/erp.webp"}
               flipped={false}
             />
           </Link>

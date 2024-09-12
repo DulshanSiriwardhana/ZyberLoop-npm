@@ -3,11 +3,11 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 const images = [
-  "/src/assets/images/caro/1.png",
-  "/src/assets/images/caro/2.png",
-  "/src/assets/images/caro/3.png",
-  "/src/assets/images/caro/1.png",
-  "/src/assets/images/caro/5.png",
+  "/caro/1.png",
+  "/caro/2.png",
+  "/caro/3.png",
+  "/caro/1.png",
+  "/caro/5.png",
 ];
 
 const responsive = {

@@ -19,7 +19,7 @@ const CareerHero = () => {
           <div className="absolute w-full h-full z-10">
             <CarouselX />
           </div>
-          <img src={"/src/assets/images/caro/line1.png"} className="absolute" />
+          <img src={"/caro/line1.png"} className="absolute" />
           <img src={"/caro/line2.png"} className="absolute" />
         </div>
       </div>
